@@ -4,7 +4,6 @@
 
 在线阅读：https://zhaojinting2020.github.io/kb-deep-learning-ai/
 
-拆分自私有知识库 [bookmarks-kb](https://github.com/zhaojinting2020/bookmarks-kb)。
 
 ## 快速开始
 
@@ -41,5 +40,4 @@ npx quartz build --serve
 
 | 仓库 | 说明 |
 |------|------|
-| [kb-quant-finance](https://github.com/zhaojinting2020/kb-quant-finance) | 量化金融笔记 |
 | [kb-robotics](https://github.com/zhaojinting2020/kb-robotics) | 机器人与自动驾驶笔记 |
