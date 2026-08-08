@@ -1,0 +1,223 @@
+---
+title: tutorial_em 补充
+source: converted:attachments/documents/AI_Machine-Learning-in-Communication-e783e2fcbe1b/tutorial_em
+  补充.pdf
+source_type: PDF
+quality: draft
+attachments:
+- file: attachments/documents/AI_Machine-Learning-in-Communication-e783e2fcbe1b/tutorial_em
+    补充.pdf
+  title: tutorial_em 补充.pdf
+---
+
+# tutorial_em 补充
+
+<mark>cS</mark> 
+
+— XN AAPM FB coy —-BEAHNAS Se A#E TizMe fhitAREATMBSFSINHAFESE BANNKRSA MRR: FARR MTA Bm? CHEMITA? CHAS eta? MENANHKS EASE? FHREM—TROIFABRAM **A** B, ABW 6A, HR 6 ARIREMTAai BJILURENRON 214. ZaRR FAWESOAN, STMLRZGESEXSMREB LMIERAIANRESICAS, ARZESTRASMEEN, RSP REPAS Rothe, ik AReats BVH STE. ReU—-T+LEMREA BAN —TZOIME. BEA a #5) v @ Rit Voe= Wikhig -- RAM AM Bids, SARS -MR A, Mine MRR <mark>»@</mark> Baa, MA-ROMNHER, MASA, SHA, RAWS-LAANRALRG, MAMA A FASMMR, HSRERASAVNSH. 
+
+MAIRAMPAEI 
+
+RAMI 
+
+[ta] eae Fis ak 
+
+> (iZkNsSZSABSRNFRFSENSSah. RRRAR REN S **S** ARMIERD TD N(p,07?) . JER: RAMANAe ESL RIERA Dh, WRAAEREDA, FURIEIRA ARITA , TOD YH MAE 6? RA, MRAM HKMTS i, ARNMSS TRAWNAR., BARE ATIXMATES RE? FIRAIAE KAZ, RIAA RERTARME? RN RANSS RARER, hate MH, HIERAARAA, rink Rabel 7 TA (hit TEBNWHABE, AT Align, FHA HEBAMENMWNSS) . ABSitittx TAN ES. tRHIX TANS Shite ve MAE oO’. FASS Kine: ASRTARFENSSDH, RIAA p(cld) THEN I tT (Si) , Amteease X= 21,02,...,cy Hae AFIS i SANSS, BE Nie , RMTEATH, RVIAR RP<sup>HRANRASHRoO.REMASE</sup> p(x|0) ARMED N(p,07?) , RPNRASWE O=[p,o]" « PAARS ERARSR oO We? (KAS EMIAESLT Mo) ew: fo) e—: HRBIX TAREBS ME? BFS MEA ASIRIIOM p(clO) PHHENAN, RODIBRIX SFE RIPTEN, 1] Zleleix BRAN, BINE AIA. RUE (NSS) WS p(oeal6) , RBI AE p(rel0) , BARNES MBE WMS p(ra|6)x p(rel6) , AH, Kal BS $l) 1x SENS Mets BRANES, BANKERS, ARAM: L(6) = L(e1,22,-+-,2,:6=|] pla **)** , 0€0 1=1 HELA TA, ANID n= 200, AT RIRT, EAR BS RAMISA o A, (Se) IKEA, LHPSHAMRA 0 SRAM, PLA 6 ARR. 
+
+IX TAA RAREEREASA 0 ER, SSRMED RAT AEM, ALLMASR 0 18 WHEAT BAEK ( ) , 12h L(6) . 
+
+Xf ERATE, WAREMAN, MAMMA, MRT: H(6) =m L(6) =m] [[attachments/documents/AI_Machine-Learning-in-Communication-e783e2fcbe1b/tutorial_em 补充.pdf| p(a:|8) =) inp(<sup>2/0)</sup> i=1 i=1 
+
+: RBAtGZ BRKT? 
+
+ROWZRARRAAN, KSBIMAE RAIS DSBS ata, Coe » ATTAINS SARA, AAR SIX— AGE, RIM 2, BaTIiTSANRal LA ARIM ase) A: FRBASRE, AMrAmtagtielTix TA Se We? EFRBAFEH, TAM TBBIX Tet (S5) , MR ERHA, PERERMEE SFR, 1X TA (NSS) GR ARAIM, Rte ROMAAREL LO) RA, Bl 
+
+6 = argmax L(6) 
+
+6 XML 0 BRAM Ai, BIE ATPTKASIE. 
+
+Mi =: BAEARAMARN? * LO) WAS SA, Bebe RSWA , hike n SER, MA rn SARA NWAte4a, BAA RANRMEUARAN Mims, Mimazlxtnvey o s. 
+
+RAM AMAIT SE 
+
+RAWAMATTRA LEE athe —T Rie. SRM PAMERECMAERERAR, MRA WMACAE 50I8 FR, A SORE AZAR OMAREERARA, DALE ARITA. 
+
+rE Rie, 
+
+(FRUO— TS FRA SES BIA | ORT, ABARAT, MERTSREBAT REIS FINES ZR FRQOINAALIS ABSCCC BI, (REL, AE TSA, RMBEMA TP BR, RNG 
+
+8 AE, RRLAM AIT. 
+
+PAPER ZT FRSC BARN 
+
+RAVMAMAY, RE-MRBCERH FHM, CHSWsitWAAZ—. iNHeLcARne MER ERMRED HH, PERPRANSHTAS, BUA RTM, MRAAR, NAA RES RNAI. 
+
+RAW 22M BBL: CMASSMAX MERON ERA, RMA SBA WIA th | AREA, PROF HRMIE RTS AEA hit WALI. RAMAMAP PR BU TT (BB fix26 a : () SHARE ( ) STUAPAPREMENITEN, FP REIE, () RSW, SSW , BBM: 
+
+( ) MURA, SBNER. ARAMAPR BIB he FB 
+
+g/\\ Seat: RAMNS AAT BM ASH ERITH AEARE, thiatehit (etm NEZEN AMR), ASW Fem: 
+
+RBA AAS SRSA, wWARRUEREARSIRANIE. 
+
+ZARA RRA, Hit 
+
+RAW: REHNESRbt SeMik(FSMRE Fi EWA FARBER 
+
+= J) = ~~5~~ i=1 OTE AEX 
+
+— 6x;)? Margmax H(9) = argmin (9) | BLFRAMRANS NFR) 
+
+DAY ATLA, WEA ASR ACPA A ee A ee \ SEMA PRA HI RESIN. (ee FRX MBRERCRSHANRAAR, RHALAATEAA. MA: DRMPR IMR (MIM AR) EDR RHA, SRVGNAM MSA AARMA, We EVAARIZE: Ma) =9.= ~~1~~ Lt eS eth RiEZASWNABR RAE 9 =p(iy= 12,0) , 
+
+Sy=18, pi =py=1|2,0)=% 
+
+Sy=0W, po =p(y=O0|z,0)=1-% 
+
+SHLEMAF, ADVE 
+
+Fis (a)eR ERB LENS SARMESD A N(u,0?) . SIMARHDRAREN, BEM SES) SIAR PRPRANEI RIED 4G, BIB ¢ N(w1,02), XE EN(y2,03), SER: BR ARAMMAT MAES —HN, PERRUERAND TD, URTAERUEO TH, SIAR HAN . MAK EAL ENS SD Ale? BM, BTR = BEM 6 TE, BREMREDA, RITA OMA. DMR BENEND A, URES AREER LT, AMER T . MANTRAS EDA, BRIDAL. iB 1, NI = NA (WSS) BORA -TSA (WSS) , RAIIAERTA (89 88) 254 (WSS) DERE (MSS) . MDAFWESMES, HAVA S MEAT 
+
+BEMMBTDARN. AEBADME? 
+
+Be 
+
+MTR, WFS-PMEAREMARANA,MAMNIMBE (AST, —BxTtAZSHM =e, DE RSENRZEWNMHNSSHNIERDANERMESY.RATS KM: SNA SSCA SBSERERE, RNA RARAARAUAN SASS ABNS SNA wT hit. Bork, SRNAE TSSRSShNomSew7RAS —TABAUReEAEMERE, HMRNCMALNSSDAA N(u =172,07=5°), RENSSDAA N(u2 = 162,03 = 5’) , —*PS4HS8N , ANTHERS REAARENT BS * ° 
+
+(EMER AABSTFESAERSERE,WHABARENRENS SDA. MMM ST — THEAGMEHA SWIMS. Wik, RAR, HME WSAIM, BAAR, it, RAK, IM TARE MO SRI, AS RERIX MRAM, RRM NER Moe, ASB -HEANRES, *# es, KTeHZ—MEAUR, BREAR, ABRBREMNS HBR, AR MOUIK CaTMSiBiesS, mama (REARS, 4) . ke BAN BART. Nake , BAIKRAIKN: ikeAENRENSMie, SBSEN **S** SEDANDASMNum = 172,07? =5’) , ZENS SDAN N(u2 = 162,07 =5°) , SAT, WARS ERABAE: Sit BwsTtA Ba ABTS—TRES_TEADAAAN(PIM, KTANSSE , AB(RAAS, (HhikhAPISEBFBE) , XhEBT —; RNCAA RHE EMMA Ax TADABSENREMBD,FNMA DRE ZAIN RAMA it a aS SEMEN S SDHSROH TAI GOXRE AT RAMA SIS? ABA ) KBRA ; a, ARNEMXATOAHNE, S-TSFERBFRERERZENMEREST, MARI MASS7; Mubises, BUSMBARBRERCM AEARAREAAIL. 
+
+= f(0.5a+0.50) 
+
+, XB A AMEN 
+
+f(a) 
+
+Ho, E£{f(r)|=0.5f(a)+0.5f(0), f(H(z))= f(0.5a+0.50) 5 MMBHS, f(b) S WMS. 
+
+ali, WRAM f emeoea, SBMS: AMAL. 
+
+pe=Hz))=1 heaters NSS 
+
+YNFSBRE MSS NRRDHA pj =p{X=a;} , WHS EX) W: pr BME, MEMTAE 1S P20, Dom=l , AEAE MNS NWHABE RMD fic), WERRAR F(X) VW: +00 WY= 9X), 4X BeRnLeiles, MM: B(Y) = olaidpi 
+
+aX ZERLGMNSs, Ml: 
+
+> +00 o(e)f(@)de 
+
+B(x) = | 
+
+# RANES 
+
+log(E(y)) => E(log(y)) 
+
+Ah: 
+
+ARAWAN ADA: 
+
+So P(2, 20) =cS°Qi(2”) 
+
+mF > O(29)=1, \\bpmist, BTADUSaI: 
+
+So P(2, 210) =c 
+
+FA itz 
+
+for jfrom1toJ: 
+
+&: i RHR D Thay RF AS: (2) = P(2|e9. @ ww: MAK LO) ll @ 6 :=arg max » » Qi (2)logP(2, 2) Ne a i ie ; Tht DRAB 
+
+Be . DRE o Ucsy 
+
+ih: SBN 0 
+
+Aiea Mie 
+
+INE FIA ( ) ARUFBE TRA, BE RAN BN eee MCT ae, MEAN AVERACUARN, BEPRS—TAMMMEMRBSUMAAT, F 2S—TAVRESS MRSS wESSMRESA, HETSRNSMLANFADTSD ~~Seles + > ATR i~~ 
+
+WAR BEARERBIBRA. Bl: 
+
+ay: 
+
+SrA BSARNUGNM, FR SSSA Fa AW SSF AEIGT . 
+
+MIFSo Ba, RNA: 
+
+Aes ( ) HBTS 
+
+ASU, RAVANS TNEARMO, 6 ( ) AAT Soi=1 logP(2i=1 logP(2 logP(2 0") —'Si=1i=1 logP(a|@)>> 0, TERRY «= AASUC ORE. 
+
+Ble, RAVE: Soi=1 logP(2i=1 logP(2 logP(2 0") —'Si=1i=1 logP(a|@)>> 0, TERRY «= AASUC ORE. MEBNIES TAA, RAWLINSTMae Rm, (SAIBERENSS AIK Aten, AlCeeeRNRK, SA, WRENNEi 16,0) SON, WW BAA DARIENSES RAE, MMEPRAM HAACS A, BIERMNHESFE mte Sl Nes— Toad. 
+
+EUANA 
+
+UREMMSZRBBNRERES BA, RNID RMR AS CANSM EAE, A AN eS MRASA, 4 O, KMSRSH ERLESANE, tee sisena 7, me +, RMNS REA ER aMiEom, MtRHRSAN. NWA: ScF5 SALA BA Yt GS tes Ar ie BS 
+
+aS RAKE 
+
+<u>FEUER Mie</u> ~~rh ie~~ (Riga. , DATBS ANSReNLIAHE—-Maem, TATOORAN Reh Seow: A ORS IY, SRSEOIRIZNETOR, BRU Pam, PIM RSES LL nn AAEM. SHAS tHe Be Nia Pa, SERA Ne Me Wha ReT, a0eaeLE eR? 
+
+argmazlogP(Y 8) = log((6% (1 — O8)’)(84 (1 — 44))(68 (1 — 84)°)(6% (1 — O8)°)(04 (1 — 84)’)) = log|(02(1 — 04)°) (05 (1 — 68)"")| FERPA RSZERM, RSI FASE RAR REENBIA 6, , REG A TELARAREE ARIA , BM 
+
+KSSF Zanes PNis—RARZANSAUE 6? =0.71 
+
+6” — 0.58 SA, BT Fx {118 BJ DAFA — Ap BB fe BAN ARS: 
+
+a(1) 21.3 = 4 <u>973</u> ~~+36~~ _ 00 a(1) 11.7 "2 ~ ~~i7yea~~ _ 98 BAN: BSH Tee 6? 69 wast 86, RST SPREE Al ARE ( 4) , AeS 4, WAAR NTO (10) (10) 6, =0.8,6, =0.52 5| FASC: <u>(MeAMPAS BARA)</u> 
+
+« ) 
+
+« 
+
+) 
+
+MiMKERHSE: 
+
+AL REESE 2 
+
+= DRAWNlA) HEF 
+
+FiFi¢ 
+
+B PRICE 
+
+© 
+
+logP(x |@) 
+
+zB 
+
+P(e, 2!) 6) 
+
+WARE MIL SNE SM FR PWa RNS , BA logP(«™ |6) KS RVISAR (ATLARRE 
+
+log(fi(a) + fo(a) +... 
+
+BARA KS, PRR IEKARS EI 
+
+6 
+
+vil 
+
+z 
+
+o RAEN EAM? AG ARAN? RBXSHE HATA 
+
+Q: (2) 
+
+Ass MED WMAKE , SIA ZATSIA RSW, MhAe Sal MED LAAR Q(z) = OCAFAMRHSAW PNR SA TH. ATABAHS? Me Phietl FRawWe RSE BEMRAMMETS Sh, 
+
+aa a o- Lara @ Eee @ 
+
+AR 
+
+P(x, z'9|6) —— P(x, 2!) |) |) E(—_——) = 9 °0(z”) —__—— Q(z") Qi(2") SiH, BABA EIX MS AIH. ri KREHA?MEPS RBA MAMA Bik, SHRUBS, RKB PRINS, , ZREARRANEU. —SENTR BABKHE Bx. BOR dE: Seoann Be RAS Mee BIRTH KF AHIR, HFRIIRRERA, BSA OLL. WHR, ABR BMS ZB. 
+
+FAY FORKS. REBUM | RAAT, SORA WAS, WWSS—HBRA NHB. 
+
+— Fee AE ASH RE. RAUGHURR SRM RORRMZ Sh BE, tabde—F
+
+---
+
+## 源文件
+
+- [tutorial_em 补充。pdf]]
