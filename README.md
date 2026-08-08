@@ -23,3 +23,7 @@
 
 - 流水线脚本（书签 crawl、飞书 pull、PDF import）仍在 `bookmarks-kb`
 - 本仓面向阅读与专题整理；附件未全量同步时，可对照总仓或百度网盘 `attachments/`
+
+## 附件同步
+
+本仓 `attachments/` 使用 Git LFS。新机器先执行 `git lfs install` 再 clone/pull。
