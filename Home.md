@@ -2,13 +2,16 @@
 
 个人深度学习与 AI 学习库。
 
-站点入口与 Obsidian 首页一致：[`content/index.md`](content/index.md)
+Obsidian 首页：[`content/index.md`](content/index.md)
+
+仓库：https://github.com/zhaojinting2020/kb-deep-learning-ai
+
+写作：飞书改正文 → Cursor 拉取 → Obsidian 审链 → 推 GitHub。
 
 ## 从这里开始
 
 1. [主题导航 MOC](content/00-导航/MOC-dl-ai.md)
-2. [在线阅读（GitHub Pages）](https://zhaojinting2020.github.io/kb-deep-learning-ai/)
-3. [编号目录](content/深度学习与AI/)
+2. [编号目录](content/深度学习与AI/)
 
 ## 编号目录
 
@@ -25,5 +28,5 @@
 
 ## 使用方式
 
-- Obsidian：打开本仓库的 `content/` 目录作为 vault（推荐）
+- Obsidian：打开 `content/` 作为 vault
 - 附件需本机已安装 Git LFS

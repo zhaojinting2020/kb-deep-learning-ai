@@ -1,16 +1,19 @@
 ---
 title: 深度学习与AI
-description: 深度学习与 AI 学习笔记（Obsidian + Quartz）
+description: 深度学习与 AI 学习笔记（Obsidian vault）
 ---
 
 # 深度学习与AI
 
 个人深度学习与 AI 学习库。建议按编号目录循序阅读。
 
+仓库：https://github.com/zhaojinting2020/kb-deep-learning-ai
+
+写作：飞书改正文 → Cursor 拉取 → Obsidian 审链 → 推 GitHub。
+
 ## 从这里开始
 
 1. [[MOC-dl-ai|主题导航 MOC]]
-2. 在线站点入口即本页
 
 ## 编号目录
 
